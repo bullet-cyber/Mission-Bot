@@ -3,7 +3,7 @@ module.exports = {
 		name: "mal3",
     aliases: ["war"],
 		version: "1.0",
-		author:"MOHAMMAD-BADOL", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/B4D9L **//
+		author:"MOHAMMAD-L", //**your needed my cmd but don't change My credit & share this cmd***and original author fb I'd : https://m.me/B4D9L **//
 		role: 2,
 		category: "War",
     shortDescription: "nothing",
